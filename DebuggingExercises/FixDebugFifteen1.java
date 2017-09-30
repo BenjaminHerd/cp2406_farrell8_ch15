@@ -8,7 +8,6 @@ import java.awt.Color;
 public class FixDebugFifteen1 extends JFrame implements ActionListener
 {
     //Layout components
-
     //Buttons with text
    JButton button1 = new JButton("Red");
    JButton button2 = new JButton("Pink");
